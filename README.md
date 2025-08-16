@@ -1,5 +1,11 @@
 # Student Grade Manager
 
+![status](https://img.shields.io/badge/status-in%20progress-yellow)
+
+⚠️ **Note:** This project is still under development and not yet finished.  
+Features may change and improvements are ongoing.
+---
+
 A simple C program to manage students and their grades.  
 You can add students, assign grades, list all students, and calculate averages.  
 Built as a practice project for handling structs, arrays, and basic I/O in C.
@@ -43,6 +49,8 @@ make
 ### Clean (remove .o files & binary)
 ```bash```
 make clean
+
+---
 
 ## Example Usage
 
@@ -90,6 +98,8 @@ Average of Walid: 60
 
 y3awnrebi
 
+---
+
 ## Notes
 
 - Names must be unique and non-empty.
@@ -99,3 +109,5 @@ y3awnrebi
 - Each student can store up to 20 grades.
 
 - The class can have up to 100 students.
+
+---
