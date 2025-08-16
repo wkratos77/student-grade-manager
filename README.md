@@ -16,11 +16,16 @@ Built as a practice project for handling structs, arrays, and basic I/O in C.
 ---
 
 ## Project Structure
-├── grade_manager.h # Header file       (structs + function prototypes)
-├── student.c # Student-relatedfunctions       (add/ list/find/grades/average)
-├── io.c # Utility functions            (strlen, putstr, putnbr, readline, atoi, etc.)
-├── main.c # Program entry point + menu
-└── Makefile # Build automation
+├── grade_manager.h   # Header file (structs + function prototypes) 
+
+├── student.c         # Student-related functions (add/list/find/grades/average)
+
+├── io.c              # Utility functions (strlen, putstr, putnbr, readline, atoi, etc.)
+
+├── main.c            # Program entry point + menu
+
+└── Makefile          # Build automation
+
 
 
 ---
@@ -47,30 +52,42 @@ make clean
 3) Add grade
 4) Show student average
 0) Quit
+
 > 1
+
 Student name: Walid
 Added.
 
 > 3
+
 Student name: Walid
 Grade (0-100): 40
 Grade added.
 
 > 3
+
 Student name: Walid
+
 Grade (0-100): 60
+
 Grade added.
 
 > 3
+
 Student name: Walid
+
 Grade (0-100): 80
+
 Grade added.
 
 > 4
+
 Student name: Walid
+
 Average of Walid: 60
 
 > 0
+
 y3awnrebi
 
 ## Notes
