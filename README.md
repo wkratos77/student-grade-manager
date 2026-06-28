@@ -10,6 +10,11 @@ A simple C program to manage students and their grades.
 You can add students, assign grades, list all students, and calculate averages.  
 Built as a practice project for handling structs, arrays, and basic I/O in C.
 
+## Quick Overview
+
+- **Built with:** C
+- **Focus:** Managing student grades, calculating averages, and displaying basic class statistics.
+- **What I learned:** Structuring small programs, handling data, using arrays/structures, and organizing simple logic.
 ---
 
 ## Features
